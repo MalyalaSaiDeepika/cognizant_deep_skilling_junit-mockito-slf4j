@@ -1,0 +1,9 @@
+com\cognizant\UserIntegrationTest.class
+com\cognizant\UserControllerTest.class
+com\cognizant\UserRepositoryTest.class
+com\cognizant\UserServiceTest.class
+com\cognizant\EvenParameterizedTest.class
+com\cognizant\GlobalExceptionHandler.class
+com\cognizant\UserExceptionTest.class
+com\cognizant\CalculatorServiceTest.class
+com\cognizant\UserPostControllerTest.class

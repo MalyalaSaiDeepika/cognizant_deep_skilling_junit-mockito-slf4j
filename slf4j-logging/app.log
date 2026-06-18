@@ -1,0 +1,2 @@
+01:20:10 ERROR com.cognizant.LoggingExample - This is an error message
+01:20:10 WARN  com.cognizant.LoggingExample - This is a warning message

@@ -1,0 +1,3 @@
+com\cognizant\integration\UserIntegrationTest.class
+com\cognizant\controller\UserControllerTest.class
+com\cognizant\service\UserServiceTest.class
